@@ -4,4 +4,4 @@ ADMIN :
 pass : nsuonlychill
 
 2. zunayed123
-pass : nsuonly chill
+pass : nsuonlychill
